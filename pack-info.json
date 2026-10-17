@@ -1,0 +1,14 @@
+
+{
+  "name": "Nexora",
+  "version": "1.0.0",
+  "game": "Geometry Dash",
+  "type": "texture-pack",
+  "style": "futuristic-neon",
+  "colors": {
+    "primary": "#00F5FF",
+    "secondary": "#A100FF",
+    "background": "#090B1A",
+    "accent": "#FF36D7"
+  }
+}
